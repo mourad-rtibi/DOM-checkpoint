@@ -1,0 +1,15 @@
+/* src/App.css */
+.cart {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  background-color: blue;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+  background-color: rosybrown;
+}
